@@ -1,0 +1,2 @@
+stock = 'RELIANCE.NS'
+rel_data = yf.download(stock,start = '2022-01-01' ,end = '2024-01-01')
